@@ -1,34 +1,34 @@
-# 2D Platformer Game Using PyGame.
+# THE SECOND PROJECT: Google Course Case Study Bellabeat.
+
+The second project from the google professional data analyst course, completed under the course's guidance.
 
 ## Objective
 
-To make a small 2D pokemon themed mario type platformer game using python, and its library PyGame.
-This was originally our college final semester python project.
+analyse trends in smart device usage, recommendations to apply to the customers, and find how it may influence the company's marketing.
 
 ### Skills Learned
 
-- PyGame Library
-- Advanced Python Debugging
-- Advanced Python Problem Solving
-- Files and Folder Management
+- Analysis using excel and sql
+- Data Visualisation using Tableau
+- Presenting the findings and the recommendations using powerpoint
+- Documenting the analysis
 
-## The Game (Output)
+## Screenshots from the presentation
 
-![instructions](https://github.com/SamyakJain-DS/PokeMario/assets/142383509/279b2283-945d-4b68-bb1b-0f40df33bdd1)
+![image](https://github.com/SamyakJain-DS/bellabeat/assets/142383509/c7d65bee-1252-4a3a-bd22-37f6ae011b64)
 
-![credits](https://github.com/SamyakJain-DS/PokeMario/assets/142383509/9c3b50a9-d4c0-43f6-aa58-3e76b285ccda)
 
-https://github.com/SamyakJain-DS/PokeMario/assets/142383509/fb399c26-3554-45b4-bdb1-59cbe84ce510
+![image](https://github.com/SamyakJain-DS/bellabeat/assets/142383509/e343ba5c-7fca-449c-b54c-626b8929fe68)
 
-https://github.com/SamyakJain-DS/PokeMario/assets/142383509/e30d7969-a794-4699-ac99-9ee0bf9455d5
 
-https://github.com/SamyakJain-DS/PokeMario/assets/142383509/588c5f51-1642-41ce-a12a-02ce2f2a87e8
+![image](https://github.com/SamyakJain-DS/bellabeat/assets/142383509/2c44dee8-2798-4c0c-9b80-c4bc7e9ae30d)
 
-https://github.com/SamyakJain-DS/PokeMario/assets/142383509/35caafbb-6594-4fbb-9d43-54775aa7fba0
-
-![lose screen](https://github.com/SamyakJain-DS/PokeMario/assets/142383509/41bdaa62-e1d1-4584-9f65-b3099bc3af59)
 
 ### Tools Used
 
-- Python
-- PyGame Library
+- Excel
+- SQL
+- R
+- Tableau
+- Powerpoint
+- Word
