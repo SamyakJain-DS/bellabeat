@@ -18,7 +18,7 @@ analyse trends in smart device usage, recommendations to apply to the customers,
 ![image](https://github.com/SamyakJain-DS/bellabeat/assets/142383509/c7d65bee-1252-4a3a-bd22-37f6ae011b64)
 
 
-![image](https://github.com/SamyakJain-DS/bellabeat/assets/142383509/e343ba5c-7fca-449c-b54c-626b8929fe68)
+![image](https://github.com/SamyakJain-DS/bellabeat/assets/142383509/e9619d1d-d64d-4f9c-b48b-aa5074e6b5ea)
 
 
 ![image](https://github.com/SamyakJain-DS/bellabeat/assets/142383509/2c44dee8-2798-4c0c-9b80-c4bc7e9ae30d)
