@@ -1,4 +1,4 @@
-# THE SECOND PROJECT: Google Course Case Study Bellabeat.
+# Google Course Case Study Bellabeat.
 
 The second project from the google professional data analyst course, completed under the course's guidance.
 
