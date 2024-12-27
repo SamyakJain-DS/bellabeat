@@ -13,7 +13,7 @@ analyse trends in smart device usage, recommendations to apply to the customers,
 - Presenting the findings and the recommendations using powerpoint
 - Documenting the analysis
 
-  # Analysis in SQL
+# Analysis in SQL
 ![sql](https://github.com/user-attachments/assets/401fe7f3-bf89-49e3-b9f6-0dc8d9aec45f)  
 
 ## Screenshots from the presentation
